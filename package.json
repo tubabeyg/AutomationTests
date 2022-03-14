@@ -1,0 +1,14 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {
+    "cypress-get-table": "^1.0.1"
+  }
+}
